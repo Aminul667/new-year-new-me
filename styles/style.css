@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+}
+
+.description {
+  color: #444343;
+  margin-bottom: 32px;
+}
+
+.section-title {
+  color: #151414;
+  font-weight: 700;
+  font-size: 40px;
+  margin-bottom: 50px;
+}
+
+.check-icon {
+  color: #16d887;
+  border: none;
+  font-weight: bold;
+}
+
+.btn-primary {
+  color: #f15b22;
+  padding: 20px 36px;
+  font-weight: 600;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+/* header styles */
+.header {
+  text-align: right;
+  padding: 216px 230px 167px 845px;
+  background-image: url("../images/banner/banner2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 130px;
+}
+
+.banner-title {
+  color: #151414;
+  font-weight: 700;
+  font-size: 65px;
+  margin-bottom: 24px;
+}
+
+.btn-banner {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 20px;
+  background-color: #f15b22;
+  border: 0;
+  border-radius: 5px;
+  padding: 20px 25px;
+}
+
+/* my failures section */
+.my-failures {
+  display: flex;
+  gap: 80px;
+  padding: 0 320px 0 200px;
+  align-items: center;
+}
+
+.my-failures ul {
+  margin-top: 16px;
+  list-style: none;
+}
+
+.chk-list {
+  color: #444343;
+}
+/* .my-failures ul li::before{
+    content: "\2713";
+} */
+
+/* my plans section */
+.my-plans {
+  display: block;
+  text-align: center;
+  padding: 0 230px;
+  margin-bottom: 124px;
+}
+
+.my-plans-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sub-title {
+  color: #151414;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.sub-description {
+  color: #737272;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+/* a positive mindset styles */
+.positive-mind {
+  margin: 125px 230px;
+  padding: 60px;
+  background-image: linear-gradient(
+      90deg,
+      #f15b22 0%,
+      rgba(241, 91, 34, 0) 100%
+    ),
+    url("../images/watch.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* footer styles */
+.footer {
+  display: flex;
+  gap: 330px;
+  padding: 130px 230px;
+  background-color: #151414;
+}
+
+.footer-title {
+  color: #f8f8f8;
+  font-weight: 700;
+  font-size: 45px;
+  margin-bottom: 16px;
+}
+
+.footer-description {
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+
+.social-media {
+  text-decoration: none;
+  margin-right: 16px;
+}
+
+.subscribe-title {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 25px;
+}
