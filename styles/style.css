@@ -39,6 +39,7 @@
   background-image: url("../images/banner/banner2.png");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   margin-bottom: 130px;
 }
 
