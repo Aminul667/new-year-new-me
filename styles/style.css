@@ -75,9 +75,20 @@
 .chk-list {
   color: #444343;
 }
-/* .my-failures ul li::before{
-    content: "\2713";
-} */
+
+/* overcome failure styles */
+.overcome-failure {
+  display: flex;
+  margin: 0 230px;
+  justify-content: space-between;
+  margin-bottom: 130px;
+}
+
+.overcome-failure img {
+  height: 50%;
+  width: 50%;
+  border-radius: 50%;
+}
 
 /* my plans section */
 .my-plans {
@@ -120,11 +131,11 @@
 }
 
 .positive-mind-title {
-    color: #FFFFFF;
-    font-weight: 700;
-    font-size: 40px;
-    margin-bottom: 50px;
-  }
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 40px;
+  margin-bottom: 50px;
+}
 
 /* footer styles */
 .footer {
