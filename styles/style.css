@@ -3,6 +3,7 @@
   font-family: "Work Sans", sans-serif;
 }
 
+/* some common styles */
 .description {
   color: #444343;
   margin-bottom: 32px;
@@ -90,7 +91,7 @@
   border-radius: 50%;
 }
 
-/* my plans section */
+/* my plans section styles */
 .my-plans {
   display: block;
   text-align: center;
