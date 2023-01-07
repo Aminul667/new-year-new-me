@@ -116,7 +116,15 @@
     url("../images/watch.png");
   background-repeat: no-repeat;
   background-size: cover;
+  border-radius: 8px;
 }
+
+.positive-mind-title {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+  }
 
 /* footer styles */
 .footer {
